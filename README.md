@@ -82,8 +82,8 @@
 
 - 🔐 Password Generator (React)
 - 📚 Library Management System API
-- ✅ Node.js To-Do List API
-- 🌐 Portfolio Website
+- ✅ NIKE Brand
+- 🌐 zomato Clone
 
 ---
 
